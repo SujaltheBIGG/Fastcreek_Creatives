@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(perl -ne 'if\\(/showreel_section/\\){ my $i=index\\($_,\"showreel_section\"\\); print substr\\($_,$i,1100\\),\"\\\\n\"; }' 'Ariyana Studio - Webflow HTML website template.html')"
+    ]
+  }
+}
